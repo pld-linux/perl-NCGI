@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	NCGI
 Summary:	NCGI - A Common Gateway Interface (CGI) Class
-Summary(pl):	NCGI - klasa dla CGI (Common Gateway Interface)
+Summary(pl.UTF-8):   NCGI - klasa dla CGI (Common Gateway Interface)
 Name:		perl-NCGI
 Version:	0.05
 Release:	0.1
@@ -28,9 +28,9 @@ NCGI is an aid for authors writing CGI scripts. It has the same basic
 function as the well known CGI module although with a completely
 different interface.
 
-%description -l pl
-NCGI jest pomoc± dla autorów pisz±cych skrypty CGI. Ma te same funkcje
-podstawowe co dobrze znany modu³ CGI, lecz z zupe³nie innym
+%description -l pl.UTF-8
+NCGI jest pomocÄ… dla autorÃ³w piszÄ…cych skrypty CGI. Ma te same funkcje
+podstawowe co dobrze znany moduÅ‚ CGI, lecz z zupeÅ‚nie innym
 interfejsem.
 
 %prep
