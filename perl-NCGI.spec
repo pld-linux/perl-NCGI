@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	NCGI
 Summary:	NCGI - A Common Gateway Interface (CGI) Class
 Summary(pl.UTF-8):	NCGI - klasa dla CGI (Common Gateway Interface)
